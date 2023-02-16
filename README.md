@@ -64,7 +64,9 @@
  <p align="left">
     <br />
 1. Space Titanic Competition on Kaggle
+  <br />
 2. Classifying Disaster tweets using TenserFlow
+  <br />
 3. Digit recognition model using TenserFlow
     <br />
     <br />
