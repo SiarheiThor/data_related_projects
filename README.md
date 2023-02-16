@@ -63,17 +63,34 @@
 
  <p align="left">
     <br />
-1. Space Titanic Competition on Kaggle
+  <a href="https://github.com/SiarheiThor/IBM-Data-Science/blob/main/kaggle_knowledge/018_Digit_Recognizer_CNN.ipynb"><strong>1. Digit recognition model using TenserFlow »</strong></a>
   <br />
-2. Classifying Disaster tweets using TenserFlow
+  Classification model using TensorFlow, CNN, 99.153% accuracy
   <br />
-3. Digit recognition model using TenserFlow
-    <br />
-    <br />
     <a href="">
-    <img src="https://" alt="Map" width="1000" height="600">
+    <img src="https://github.com/SiarheiThor/data_related_projects/blob/main/graphs/ConfusionMatrixDigits.png" alt="IBM" width="320">
     </a>
-
+  <br />
+  
+  
+  <a href="https://github.com/SiarheiThor/IBM-Data-Science/blob/main/kaggle_knowledge/018_Digit_Recognizer_CNN.ipynb"><strong>2. Classifying Disaster tweets using TenserFlow »</strong></a>
+  <br />
+    Classification model using TensorFlow, LTSM, 75% accuracy
+  <br />
+    <a href="">
+    <img src="" alt="IBM" width="320">
+    </a>
+  <br />
+  
+  <a href="https://github.com/SiarheiThor/data_related_projects/blob/main/kaggle_knowledge/016_KaggleCompetition_Classification.ipynb"><strong>3. Spaceship titanic »</strong></a>
+  <br />
+  Classification model using CatBoost, 80% accuracy
+  <br />
+    <a href="">
+    <img src="" alt="IBM" width="320">
+    </a>
+  <br />
+  
  </p> 
 
   
@@ -88,7 +105,7 @@ Comprehensive course by IBM as a part of IBM Data Science Certification
     <br />
     <br />
     <a href="">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IBM_logo_in.jpg/320px-IBM_logo_in.jpg" alt="IBM" width="320">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IBM_logo_in.jpg/320px-IBM_logo_in.jpg" alt="IBM" width="160">
     </a>
 
  </p> 
