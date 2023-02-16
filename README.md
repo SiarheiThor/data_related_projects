@@ -75,6 +75,21 @@
  </p> 
 
   
+<h3 align="left">
+  <a href="https://github.com/SiarheiThor/data_related_projects/blob/main/SQL/SQL_DATA_Practice.ipynb"><strong> 4. SQL Data mining </strong></a>
+</h3>   
+ 
+
+ <p align="left">
+    <br />
+Comprehensive course by IBM as a part of IBM Data Science Certification
+    <br />
+    <br />
+    <a href="">
+    <img src="https://" alt="Map" width="1000" height="600">
+    </a>
+
+ </p> 
 
 
   
