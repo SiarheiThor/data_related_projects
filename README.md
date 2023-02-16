@@ -88,7 +88,7 @@ Comprehensive course by IBM as a part of IBM Data Science Certification
     <br />
     <br />
     <a href="">
-    <img src="https://" alt="Map" width="1000" height="600">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IBM_logo_in.jpg/320px-IBM_logo_in.jpg" alt="IBM" width="320">
     </a>
 
  </p> 
