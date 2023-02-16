@@ -15,7 +15,7 @@
   <!-- ############################################# -->
 
 <h3 align="left">
-  <a href="https://github.com/SiarheiThor/case-nordea"><strong> 1. Data Analysis Nordea </strong></a>
+  <a href="https://github.com/SiarheiThor/case-nordea"><strong> 1. Financial Data Analysis - Nordea </strong></a>
 </h3>   
  
 
