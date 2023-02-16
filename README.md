@@ -38,7 +38,7 @@
 
 
 <h3 align="left">
-  <a href="https://github.com/SiarheiThor/data_related_projects/blob/main/movie_recommender/008_movieRecSystemNN.ipynb"><strong> 2. Movie rocommendation backend with TensorFlow </strong></a>
+  <a href="https://github.com/SiarheiThor/data_related_projects/blob/main/movie_recommender/008_movieRecSystemNN.ipynb"><strong> 2. Movie recommendation backend with TensorFlow </strong></a>
 </h3>   
  
 
@@ -53,7 +53,26 @@
 
  </p> 
 
+  <!-- ############################################# -->
 
+
+<h3 align="left">
+  <a href="https://github.com/SiarheiThor/data_related_projects/blob/main/movie_recommender/008_movieRecSystemNN.ipynb"><strong> 3. Classification models using Advanced Statistic Models and Deep Learning </strong></a>
+</h3>   
+ 
+
+ <p align="left">
+    <br />
+1. Space Titanic Competition on Kaggle
+2. Classifying Disaster tweets using TenserFlow
+3. Digit recognition model using TenserFlow
+    <br />
+    <br />
+    <a href="">
+    <img src="https://" alt="Map" width="1000" height="600">
+    </a>
+
+ </p> 
 
   
 
