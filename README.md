@@ -57,7 +57,7 @@
 
 
 <h3 align="left">
-  <a href="https://github.com/SiarheiThor/data_related_projects/blob/main/movie_recommender/008_movieRecSystemNN.ipynb"><strong> 3. Classification models using Advanced Statistic Models and Deep Learning </strong></a>
+  <strong> 3. Classification models using Advanced Statistic Models and Deep Learning </strong>
 </h3>   
  
 
