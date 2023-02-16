@@ -75,21 +75,15 @@
   
   <a href="https://github.com/SiarheiThor/IBM-Data-Science/blob/main/kaggle_knowledge/018_Digit_Recognizer_CNN.ipynb"><strong>2. Classifying Disaster tweets using TenserFlow »</strong></a>
   <br />
-    Classification model using TensorFlow, LTSM, 75% accuracy
+    Natural Language Processing Classification Model using TensorFlow, LTSM, 75% accuracy
   <br />
-    <a href="">
-    <img src="" alt="IBM" width="320">
-    </a>
-  <br />
+
   
   <a href="https://github.com/SiarheiThor/data_related_projects/blob/main/kaggle_knowledge/016_KaggleCompetition_Classification.ipynb"><strong>3. Spaceship titanic »</strong></a>
   <br />
   Classification model using CatBoost, 80% accuracy
   <br />
-    <a href="">
-    <img src="" alt="IBM" width="320">
-    </a>
-  <br />
+
   
  </p> 
 
