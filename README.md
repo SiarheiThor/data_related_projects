@@ -35,10 +35,29 @@
  </p> 
 
   <!-- ############################################# -->
+  
+  <h3 align="left">
+  <a href="https://public.tableau.com/views/OMX30_Temp/OMX30SummaryDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"><strong> 2. Tableau Dashboard - OMX30 </strong></a>
+</h3>   
+ 
+
+ <p align="left">
+    <br />
+    Tableau dashboard explaining the OMX30 market cap, stock distribution by sector and extensive fundamental data. 
+    <br />
+    <br />
+    <a href="https://public.tableau.com/views/OMX30_Temp/OMX30SummaryDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link">
+    <img src="https://github.com/SiarheiThor/data_related_projects/blob/main/graphs/OMX30_fundamentals_tableau.png" alt="Map" width="1000" height="600">
+    <br />
+ </p> 
+
+  <!-- ############################################# -->
+
+
 
 
 <h3 align="left">
-  <a href="https://github.com/SiarheiThor/data_related_projects/blob/main/movie_recommender/008_movieRecSystemNN.ipynb"><strong> 2. Movie recommendation backend with TensorFlow </strong></a>
+  <a href="https://github.com/SiarheiThor/data_related_projects/blob/main/movie_recommender/008_movieRecSystemNN.ipynb"><strong> 3. Movie recommendation backend with TensorFlow </strong></a>
 </h3>   
  
 
@@ -57,7 +76,7 @@
 
 
 <h3 align="left">
-  <strong> 3. Classification models using Advanced Statistic Models and Deep Learning </strong>
+  <strong> 4. Classification models using Advanced Statistic Models and Deep Learning </strong>
 </h3>   
  
 
