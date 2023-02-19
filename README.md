@@ -4,7 +4,7 @@
   
   
 <h2 align="center">
-  Siarhei Thor <br /> Data Science / Analysis</h2>  
+  Siarhei Thor <br /> Data Analysis / Data Science </h2>  
 
 
   <p align="center">
