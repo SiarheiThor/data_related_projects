@@ -43,7 +43,7 @@
 
  <p align="left">
     <br />
-    Tableau dashboard explaining the OMX30 market cap, stock distribution by sector and extensive fundamental data. 
+    Tableau dashboard showcasting the OMX30 market cap, stock distribution by sector and extensive fundamental data overview. 
     <br />
     <br />
     <a href="https://public.tableau.com/views/OMX30_Temp/OMX30SummaryDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link">
