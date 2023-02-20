@@ -25,7 +25,7 @@
     <br />
     <br />
     <a href="https://htmlpreview.github.io/?https://github.com/SiarheiThor/case-nordea/blob/main/graphs/choropleth_map.html">
-    <img src="https://github.com/SiarheiThor/case-nordea/blob/main/graphs/assets_per_country.png" alt="Map" width="1000" height="600">
+    <img src="https://github.com/SiarheiThor/case-nordea/blob/main/graphs/assets_per_country.png" alt="Map" height="600">
     </a>
     <a href="https://github.com/SiarheiThor/case-nordea/blob/main/presentation/Final%20Presentation.pdf"><strong>Final presentation »</strong></a>
     <br />
@@ -47,7 +47,7 @@
     <br />
     <br />
     <a href="https://public.tableau.com/views/OMX30_Temp/OMX30SummaryDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link">
-    <img src="https://github.com/SiarheiThor/data_related_projects/blob/main/graphs/OMX30_fundamentals_tableau.png" alt="Map" width="1000" height="600">
+    <img src="https://github.com/SiarheiThor/data_related_projects/blob/main/graphs/OMX30_fundamentals_tableau.png" alt="Map"  height="600">
     <br />
  </p> 
 
