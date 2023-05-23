@@ -4,7 +4,7 @@
   
   
 <h2 align="center">
-  Siarhei Thor <br /> Data Analysis / Data Science </h2>  
+  Siarhei Thor <br /> Data Specialist </h2>  
 
 
   <p align="center">
@@ -33,11 +33,29 @@
     <br />
     <br />
  </p> 
+ 
+   <!-- ############################################# -->
+  
+  <h3 align="left">
+  <a href="https://github.com/SiarheiThor/data_related_projects/tree/main/A_B%20testing"><strong> 2. A/B Testing example workflow </strong></a>
+</h3>   
+ 
+
+ <p align="left">
+    <br />
+    This is case study to measure effects of two bidding strategies provided by Facebook. A Facebook ad campaign with “maximum bidding” is served to “control group” and another campaign with “average bidding” is served to the “test group”. The A/B test has run for 1 month , objective is to analyze and present the results of this A/B test.
+    <br />
+    <br />
+    <img src="https://github.com/SiarheiThor/data_related_projects/blob/main/A_B%20testing/Flowchart.png" alt="Map"  height="600">
+    <br />
+    <a href="https://github.com/SiarheiThor/data_related_projects/tree/main/A_B%20testing"><strong>Explore the repo »</strong></a>
+    <br />
+ </p> 
 
   <!-- ############################################# -->
   
   <h3 align="left">
-  <a href="https://public.tableau.com/views/OMX30_Temp/OMX30SummaryDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"><strong> 2. Tableau Dashboard - OMX30 </strong></a>
+  <a href="https://public.tableau.com/views/OMX30_Temp/OMX30SummaryDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"><strong> 3. Tableau Dashboard - OMX30 </strong></a>
 </h3>   
  
 
@@ -57,7 +75,7 @@
 
 
 <h3 align="left">
-  <a href="https://github.com/SiarheiThor/data_related_projects/blob/main/movie_recommender/008_movieRecSystemNN.ipynb"><strong> 3. Movie recommendation backend with TensorFlow </strong></a>
+  <a href="https://github.com/SiarheiThor/data_related_projects/blob/main/movie_recommender/008_movieRecSystemNN.ipynb"><strong> 4. Movie recommendation backend with TensorFlow </strong></a>
 </h3>   
  
 
@@ -67,7 +85,7 @@
     <br />
     <br />
     <a href="">
-    <img src="https://" alt="Map" width="1000" height="600">
+    <img src="https://" alt="File" width="1000" height="600">
     </a>
 
  </p> 
@@ -76,7 +94,7 @@
 
 
 <h3 align="left">
-  <strong> 4. Classification models using Advanced Statistic Models and Deep Learning </strong>
+  <strong> 5. Classification models using Advanced Statistic Models and Deep Learning </strong>
 </h3>   
  
 
@@ -108,7 +126,7 @@
 
   
 <h3 align="left">
-  <a href="https://github.com/SiarheiThor/data_related_projects/blob/main/SQL/SQL_DATA_Practice.ipynb"><strong> 4. SQL Data mining </strong></a>
+  <a href="https://github.com/SiarheiThor/data_related_projects/blob/main/SQL/SQL_DATA_Practice.ipynb"><strong> 6. SQL Data mining </strong></a>
 </h3>   
  
 
