@@ -75,17 +75,17 @@
 
 
 <h3 align="left">
-  <a href="https://github.com/SiarheiThor/data_related_projects/blob/main/movie_recommender/008_movieRecSystemNN.ipynb"><strong> 4. Movie recommendation backend with TensorFlow </strong></a>
+  <a href="https://github.com/SiarheiThor/data_related_projects/blob/main/kaggle_asl/ASL%20_Transformer_v2.ipynb"><strong> 4. Google - Isolated Sign Language Recognition </strong></a>
 </h3>   
  
 
  <p align="left">
     <br />
-    Movie recommendation system based on both user and content information using TensorFlow. It uses two neural network each for user and movies features. For the new users recommendations are based on user input regarding what kind of movie genres they would like to see, for existing users the model uses the ratings for the movies user has seen.    
+    I tested my knowledge of neural networks by participating in a Kaggle competition and ended up in the top 4.1% of the best solutions. Now I can predict sign language with 85% accuracy. Interestingly, the client for this competition only needed 60% accuracy for their application, which was achieved within the first week of the competition. I am grateful for the supportive, innovative and creative community on Kaggle and am excited to continue growing in this field. It feels awesome to finish the competition solo in 48th place out of 1165, among some heavy hitters of the community. => <a href="https://www.kaggle.com/competitions/asl-signs/leaderboard"> leaderboard  </a> . 
     <br />
     <br />
     <a href="">
-    <img src="https://" alt="File" width="1000" height="600">
+    <img src="https://github.com/SiarheiThor/data_related_projects/blob/main/kaggle_asl/ASL_kaggle.png" alt="File" width="1000" >
     </a>
 
  </p> 
